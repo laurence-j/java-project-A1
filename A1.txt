@@ -1,0 +1,14 @@
+Name: Laurence Jiang
+UPI: LJIA937	
+ID: 747541026
+
+Assignment 1 of Compsci 230 has taken me approximately 5 days to complete. 
+
+I found the first four questions (Q1-Q4) to be quite easy once I understood the concepts as these four questions were quite similar in design.
+Furthermore, I found both Q5 and Q6 to be the most difficult as they included new concepts which were harder for me to understand as I had to learn 
+how to utilise Java graphics tools (i.e. Area and Intersect method). 
+
+The topics in Compsci230 which this assignment best helped me to understand is Object Oriented Programming (OOP), Abstract data types, and GUI design.
+
+During the completion of my assignment I have found piazza to be extremely useful and helpful.
+
